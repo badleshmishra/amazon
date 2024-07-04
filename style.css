@@ -1,0 +1,278 @@
+body{
+  margin: 0px;
+  color: ghostwhite ;
+  background-color: #E3E6E6;
+  margin-bottom: 1200px;
+
+}
+
+  .hlo{
+    padding: 4px;
+    border: 2px  solid #131921;
+
+  }
+
+  .hlo:hover{
+    border: 2px  solid ghostwhite;
+  }
+
+   .hii{
+    padding: 8px;
+    border: 1px solid #232F3D;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+   }
+
+   .hii:hover{
+    
+    border: 1px solid ghostwhite;
+   }
+  
+  .top-header{
+    background-color: #131921;
+   position: fixed;
+   z-index: 2;
+}
+
+    .dropdown{
+      padding: 2px;
+      position: relative;
+      cursor: pointer;
+    }
+
+    
+
+    .dropdown-content{
+      position:absolute;
+      display:none ;
+      background-color:transparent;
+      color: black;
+      font-size: 15px;
+     
+      padding-top: 20px;
+    }
+
+    .dropdown-content a{
+      color: black;
+      text-decoration: none;
+     padding-left: 60px;
+     padding-right: 60px;
+      padding-top: 2px;
+      padding-bottom: 20px;
+      
+
+    }
+    .dropdown-content a:hover {
+      color:#E78B31;
+      text-decoration: underline;
+    }
+
+   
+    .space{
+      background-color:ghostwhite;
+     
+     
+    }
+      
+  .icon{
+    position: absolute;
+    top:5px;
+    color: ghostwhite;
+    font-size: 15px;
+    left:49px;
+    
+  }
+  .icon-1{
+    font-size: 10px;
+    color: gray;
+    position: absolute;
+    left: 60px;
+    bottom: 8px;
+  }
+
+
+    .dropdown:hover .dropdown-content{
+      display:block;
+    }
+
+    
+
+   .head-2{
+    padding-top:73px;
+   }
+
+   .search{
+    background-color: #FFFFFF;
+    width: 880px;
+    padding: 5px;
+
+   }
+
+   .cart{
+   font-size: 30px;
+
+
+   }
+
+
+   .bottom-header{
+    background-color: #232F3D;
+    height: 49px;
+
+
+   }
+
+    .a a{
+      text-decoration: none;
+
+      color: ghostwhite;
+      
+    }
+
+    .banner{
+      background-image: url(assets/images/banner1.jpg);
+      background-size: cover;
+
+      height: 600px;
+      
+      
+    }
+
+     .bg{
+      background-color: #E3E6E6;
+
+     }
+     
+     .box{
+      background-color: ghostwhite;
+      width: 24%;
+      z-index: 1;
+      margin-top:-298px ;
+      display: inline-block;
+      height: 450px;
+      color: black;
+      padding: 20px;
+     }
+      
+
+     .ox{
+      background-color: ghostwhite;
+      color: black;
+      padding: 20px;
+      width: 24%;
+      margin-top:-297px ;
+      height: 169px;
+      z-index: 1;
+
+     }
+
+     .see a{
+      color: #007185;
+      text-decoration: none;
+     }
+
+     .see a:hover{
+      color: #C7511F;
+      text-decoration: underline;
+     }
+
+     .mini{
+      font-size: 11px;
+      color: gray;
+      font-weight:bold;
+      
+     }
+
+     .head{
+      font-size: 22px;
+      font-weight: bold;
+     }
+
+    .hj{
+      width: auto;
+      height: auto;
+    }
+
+    .botton{
+      width: 300px;
+      background-color: #FFD814;
+      
+      border-radius: 10px;
+      position:absolute;
+      top: 501px;
+      right: 38px;
+      border: 1px solid #FFD814;
+    }
+
+    .botton:hover{
+      background-color:#F7CA00;
+    }
+    
+    .box-1{
+      background-color: ghostwhite;
+      width: 24%;   
+      color: black;
+      padding: 20px;
+      z-index: 1;
+     }
+
+   .oxx{
+      background-color: ghostwhite;
+      color: black;
+      padding: 20px;
+      width: 24%;
+      position: relative;
+      height: 169px;
+
+     }
+
+     .bottonn{
+      width: 300px;
+      background-color: #FFD814;
+      
+      border-radius: 10px;
+      position:absolute;
+      top: 110px;
+      left: 20px;
+      border: 1px solid #FFD814;
+    }
+
+     .bottonn:hover{
+      background-color:#F7CA00;
+    }
+
+
+    .hoz{
+      background-color: ghostwhite;
+     
+
+
+    }
+
+    .pre:hover{
+      
+      border: 2px solid black;
+    }
+  
+   .left{
+    color: black;
+    font-size: 46px; 
+    
+    text-shadow: 4px 0px 0px ghostwhite ;
+
+
+   }
+   .right{
+    color: black;
+    font-size: 46px; 
+    
+    text-shadow: -4px 0px 0px ghostwhite ;
+    
+    
+
+   }
+
+    
+
+   
